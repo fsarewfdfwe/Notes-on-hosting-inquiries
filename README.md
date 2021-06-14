@@ -2,8 +2,8 @@
 + Notes on hosting inquiries
 
 
-# 호스팅 유의 사항 
-# Hosting notes
+# [호스팅 유의 사항](https://github.com/fsarewfdfwe/Notes-on-hosting-inquiries/issues/4)
+# [Hosting notes](https://github.com/fsarewfdfwe/Notes-on-hosting-inquiries/issues/4)
 
 
 + 1 호스팅시 약간을 꼭 필독한다.
