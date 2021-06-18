@@ -6,7 +6,7 @@
 # [Hosting notes](https://github.com/fsarewfdfwe/Notes-on-hosting-inquiries/issues/4)
 
 
-+ 1 호스팅시 약간을 꼭 필독한다.
++ 1 호스팅시 약관을 꼭 필독한다.
 +   1 Must read a little when hosting.
 
 + 2 호스팅시 이용약간을 어길시 바로 계약이 완전해지된다.
